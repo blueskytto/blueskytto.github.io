@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "한글 테스트"
+date:   2021-06-29 21:03:36 +0530
+categories: Java
+---
+한글한글
+동해물과 백두산이
+우리사랑 영원히
+
+```javascript
+const Razorpay = require('razorpay');
+
+let rzp = Razorpay({
+	key_id: 'KEY_ID',
+	secret: 'name'
+});
+
+// capture request
+rzp.capture(payment_id, cost)
+	.then(function (data) {
+		return 2;
+	})
+```
+
+```java
+import java.util.HashMap;
+
+public class test {
+    public static void main(String[] args) {
+        HashMap map = new HashMap();
+        map.put("abc", "abc");
+    }
+}
+```
+
+자세한 내용은 [참조][blueskytto-docs] 하세요.
+
+[blueskytto-docs]: https://github.com/blueskytto
